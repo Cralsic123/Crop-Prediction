@@ -1,5 +1,11 @@
 # Crop Prediction
 
+# Here is the link for the video showing how to use the app
+
+https://drive.google.com/file/d/1CycyKvKjWX5-wA2vYvdgScs3i7Dberry/view?usp=sharing
+
+# Instructions
+
 First download the files all of them in one folder.
 
 Now open them in an IDE. For example if you choose pycharm open them

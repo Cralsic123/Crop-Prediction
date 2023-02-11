@@ -42,7 +42,7 @@ def predict():
     li = get_crop_details(prediction[0])
 
 
-    return render_template('crop.html',pred=f'The best crop is {prediction[0]} according to your parameters. Considering only the crop it is best suitable to be grown at state: {li[0]}, district: {li[1]} and best market at {li[1]} is {li[2]} ')
+    return render_template('crop.html',pred=f'The best crop is {prediction[0]} according to your parameters. Considering only the crop it is best suitable to be grown at state: {li[0]}, district: {li[1]} and best market at {li[1]} is {li[2]} because the maximum price is given here')
 
 
 
